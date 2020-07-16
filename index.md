@@ -66,7 +66,22 @@
           <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
             <div class="workYear">
               <span class="prevY">09/2017</span>
-              <span class="afterY">-Present</span>
+              <span class="afterY">- Present</span>
+            </div>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-9 col-md-10 col-lg-10 rightArea">
+            <div class="arrowpart"></div>
+            <div class="exCon">
+              <h4> IRSN, Orsay and CEA, Saclay</h4>
+              <h5>Ph.D. Student</h5>
+              <p>Inverse problem with Poisson noise applied to spectral unmixing problem:
+- Spectral unmixing algorithms for radioactivity estimation.
+- Greedy sparse regression method with Poisson noise for the joint estimation of active radionuclides subset.
+- Machine learning based on the archive of of past measurements: algorithm unrolling methods to learn data-driven constraint in the inverse problem.
+Spectral analysis of real data:
+- Calibration methods and statistical significance test for quantitative analysis, as well as the uncertainties evaluation.
+</p>
             </div>
           </div>
         </div>
