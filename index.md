@@ -17,8 +17,8 @@
               </p>
               <p> a  </p>
             </div>
-            <a href="http://cody1991.github.io/index.html" class="btnDownload">前往我的技术博客</a>
-            <a href="https://github.com/cody1991" class="btnDownload">前往我的GitHub</a>
+<!--             <a href="http://cody1991.github.io/index.html" class="btnDownload"> to </a> -->
+<!--             <a href="https://github.com/cody1991" class="btnDownload"> to </a> -->
           </div>
         </div>
       </div>
