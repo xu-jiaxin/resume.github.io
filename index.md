@@ -9,28 +9,25 @@
                       <span class="icon-bar"></span>
                       <span class="icon-bar"></span>
                       <span class="icon-bar"></span>
-                    </button>
+<!--                     </button>
                     <a class="navbar-brand" href="#">导航</a>
                   </div>
                   <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav nav-justified">
                       <li class="first menuItem homeLink active">
-                        <a href="#wrapper">首页</a>
+                        <a href="#wrapper">Menu</a> -->
                       </li>
                       <li class="menuItem">
-                        <a href="#aboutme">关于我</a>
+                        <a href="#aboutme">About me</a>
                       </li>
                       <li class="menuItem">
-                        <a href="#technical">技能</a>
+                        <a href="#skill">Skills</a>
                       </li>
                       <li class="menuItem">
-                        <a href="#exprience">经历</a>
+                        <a href="#exprience">Experiences</a>
                       </li>
                       <li class="menuItem">
-                        <a href="#reffernces">项目</a>
-                      </li>
-                      <li class="menuItem">
-                        <a href="#contact">联系我</a>
+                        <a href="#contact">Contact</a>
                       </li>
                     </ul>
                   </div>
