@@ -63,6 +63,7 @@
       <section class="exprience" id="exprience">
       <div class="container">
       <div class="row workDetails">
+           <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 Expriences">
           <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
             <div class="workYear">
               <span class="prevY">09/2017</span>
