@@ -65,8 +65,8 @@
       <div class="row workDetails">
           <div class="col-xs-12 col-sm-3 col-md-2 col-lg-2">
             <div class="workYear">
-              <span class="prevY">03,2017</span>
-              <span class="afterY">至今</span>
+              <span class="prevY">09/2017</span>
+              <span class="afterY">-Present</span>
             </div>
           </div>
         </div>
