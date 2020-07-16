@@ -60,8 +60,6 @@
 <!--             <a href="https://github.com/cody1991" class="btnDownload"> to </a> -->
           </div>
         </div>
-      </div>
-        
       <section class="exprience" id="exprience">
       <div class="container">
       <div class="row workDetails">
@@ -72,3 +70,6 @@
             </div>
           </div>
         </div>
+      </div>
+        
+     
